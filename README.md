@@ -2,7 +2,7 @@
 
 ## SOAL
 
-![img](gambar/ss1.PNG)
+![img](gambar/SS1.PNG)
 
 ## jawab
 
